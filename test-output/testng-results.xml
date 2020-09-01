@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+      <class name="TestNG.TestNGAnnotations">
+        <test-method status="PASS" signature="connectDB()[pri:0, instance:TestNG.TestNGAnnotations@39c0f4a]" name="connectDB" is-config="true" duration-ms="15" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectDB -->
+        <test-method status="PASS" signature="createUserInDB()[pri:0, instance:TestNG.TestNGAnnotations@39c0f4a]" name="createUserInDB" is-config="true" duration-ms="1" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserInDB -->
+        <test-method status="PASS" signature="LoginToBrowser()[pri:0, instance:TestNG.TestNGAnnotations@39c0f4a]" name="LoginToBrowser" is-config="true" duration-ms="0" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToBrowser -->
+        <test-method status="PASS" signature="logintoApp()[pri:0, instance:TestNG.TestNGAnnotations@39c0f4a]" name="logintoApp" is-config="true" duration-ms="1" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method status="PASS" signature="homePageProfileTest()[pri:0, instance:TestNG.TestNGAnnotations@39c0f4a]" name="homePageProfileTest" duration-ms="15" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageProfileTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestNG.TestNGAnnotations@39c0f4a]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:TestNG.TestNGAnnotations@39c0f4a]" name="closeApp" is-config="true" duration-ms="0" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="deleteUser()[pri:0, instance:TestNG.TestNGAnnotations@39c0f4a]" name="deleteUser" is-config="true" duration-ms="0" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="disconnectDB()[pri:0, instance:TestNG.TestNGAnnotations@39c0f4a]" name="disconnectDB" is-config="true" duration-ms="1" started-at="2020-08-16T17:51:28Z" finished-at="2020-08-16T17:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectDB -->
+      </class> <!-- TestNG.TestNGAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
